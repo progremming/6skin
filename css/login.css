@@ -1,0 +1,56 @@
+/* 기본 스타일링 */
+#back_button{
+    width: 1330px;
+    margin: auto;
+    padding: 17px 12px;
+    text-decoration: none;
+}
+a {
+    color: black;
+}
+
+#login{
+    width: 1296px;
+    display: flex;
+    height: 440px;
+    margin: auto;
+    padding: 65px 70px;
+
+}
+
+.login{
+    width: 50%;
+    height: 100%;
+}
+
+.login_main{
+    width: 340px;
+    height: 310px;
+
+}
+
+.join{
+    width: 50%;
+    height: 100%;
+    background-color: blue;
+}
+
+.id{
+    padding: 7.4px;
+}
+.id > input{
+    width: 320px;
+    height: 26px;
+    border:none; ;
+}
+.button{
+    width: 100%;
+}
+.button > button{
+    width: 100%;
+
+    background-color: #b6174b;
+    color: white;
+    font-size: 18px;
+    padding: 6px 12px;
+}
